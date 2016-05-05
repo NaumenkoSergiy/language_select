@@ -18,7 +18,7 @@ module LanguageSelect
     "fi" => "Finnish",
     "fr" => "French",
     "ga" => "Irish",
-    "de" => "Germany",
+    "de" => "German",
     "he" => "Hebrew",
     "hi" => "Hindi",
     "hr" => "Croatian",
